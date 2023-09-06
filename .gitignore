@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+.eggs
+*.pyc
+cover/
+.coverage
+*~
+__pycache__
+.cache
+**/.ropeproject/*
+.vim/*
+pip-delete-this-directory.txt
+pip-egg-info/*

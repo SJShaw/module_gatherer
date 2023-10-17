@@ -16,4 +16,4 @@ The script takes two arguments:
 
 # Output
 There will now be an `index.html` in the given output directory, which looks like the following:
-![image](https://github.com/SJShaw/module_gatherer/assets/1700735/66a46c1b-b84b-4ed9-9860-a753a866769c)
+![image](https://github.com/SJShaw/module_gatherer/assets/1700735/bb712254-6fbd-439b-aebe-9f1e115ac3d5)
